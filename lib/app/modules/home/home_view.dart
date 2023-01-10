@@ -79,7 +79,7 @@ class _HomeViewState extends State<HomeView>
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Aplikasi UTS"),
+        title: const Text("Aplikasi Pencari Nilai"),
         centerTitle: true,
         elevation: 0,
         backgroundColor: DefaultTheme.primaryColor,
